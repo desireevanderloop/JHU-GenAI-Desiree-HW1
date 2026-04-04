@@ -20,5 +20,5 @@ This repository demonstrates my ability to use a coding assistant to generate co
 
 ## Video Walkthrough
 
-[PASTE YOUR GOOGLE VIDEO LINK HERE]
+(https://docs.google.com/videos/d/1l3TrW_OLT8E0F7GaLSMqvJT8gGJ6sHbu6Glgtlu8WvM/edit?usp=sharing)
 
